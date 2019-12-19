@@ -36,6 +36,7 @@ textarea {
   border: 0;
   cursor: pointer;
   outline: none;
+  font: inherit;
 }
 
 .visually-hidden:not(:focus):not(:active),
